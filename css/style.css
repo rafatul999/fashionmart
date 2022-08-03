@@ -1,0 +1,35 @@
+.topbar{background-color: #E9ECEF;} 
+
+.top-icon i{
+	font-size: 20px;
+	padding: 10px;
+}
+.top-icon a{
+	color: #727072;}
+.top-icon a:hover { 
+				text-decoration: none; 
+				color: red;
+			   }
+.account a:hover { 
+				text-decoration: none; 
+				color: red;
+			   }
+.about2{background-color:#79018C ; text-align: justify;}
+.heading h2{ text-align: center; 
+	      
+	      letter-spacing: 5px; }
+.heading p{ text-align: center;
+			font-style: italic;
+			color: #5d5c5c; }
+.navbar1{ background-color: #D70018; }
+
+.navbar a{ color: white; }
+
+.news{
+        background:transparent;
+        background-color:#000066;
+        height:100px;
+}
+.brand{background-color:#000066;
+         height: 252px;
+         }
